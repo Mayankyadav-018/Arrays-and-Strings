@@ -339,6 +339,20 @@ This program calculates the sum and average of elements in an array. It takes us
 
 # Taking String as Inout and Display it:
 
+This program takes a string input from the user and displays it back. The input is stored in a character array and read using cin. 
+
+*ALGORITHM:*
+
+1> Start
+
+2> Declare a character array str[50]
+
+3> Prompt user to enter a string and store it using cin >> str
+
+4> Display the string using cout
+
+5> End
+
 
 # Conclusion:
 
